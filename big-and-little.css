@@ -1,0 +1,7 @@
+
+@media screen and (max-height: 500px) {
+  .short {background-color: yellow;}
+}
+@media screen and (min-height: 500px) {
+  .long {background-color: orange;}
+}
